@@ -1,23 +1,26 @@
 <h1>Problem Statement</h1><br>
 Create a Digital Phone Book 📞<br><br>
-<b>Statement</b><br>
+<h2>Statement</h2><br>
 Create a menu-driven console application similar to old phone book, where multiple users
 can create their account,
 We have to create an authentication system :
-1. Registration
-2. Login (If user is already registered)
+<ol>
+<li>Registration</li>
+<li>Login (If user is already registered)</li>
+</ol>
 After successful authentication, user should have right to
-1. Add contacts
-2. Read all contacts
-3. Read any specific contact
-4. Update any specific contact
-5. Delete any specific contact
-Project 2: Problem Statement 2
-6. Delete all contacts
+<ol>
+<li>Add contacts</li>
+<li>Read all contacts</li>
+<li>Read any specific contact</li>
+<li>Update any specific contact</li>
+<li>Delete any specific contact</li>
+<li>Delete all contacts</li>
+</ol>
 
 <br>
 <br>
-<b>Project Flow</b>
+<h2>Project Flow</h2>
 <br>
 <br>
 <img src="./FlowDiagram.PNG">
