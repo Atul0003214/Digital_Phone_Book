@@ -1,10 +1,7 @@
-```Problem Statement```
-Create a Digital Phone Book 📞
-Statement
-Earlier, we use to have a phone book, which consists of contact numbers. Now that we
-know the power of python, let's create a digital phonebook.
-What does that mean?
-This means we have to create a menu-driven console application, where multiple users
+<h1>Problem Statement</h1><br>
+Create a Digital Phone Book 📞<br><br>
+<b>Statement</b><br>
+Create a menu-driven console application similar to old phone book, where multiple users
 can create their account,
 We have to create an authentication system :
 1. Registration
